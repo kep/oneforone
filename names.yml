@@ -41,3 +41,10 @@
     name: "Jamaä Bickley-King"
     handle: "jamaa.bickleyking"
     platform: "https://www.facebook.com/"
+
+- name: "Kathryn Peters"
+  handle: "kep"
+  oneforone:
+    name: "Tiana Epps-Johnson"
+    handle: "tianaej"
+    platform: "https://www.twitter.com/"
